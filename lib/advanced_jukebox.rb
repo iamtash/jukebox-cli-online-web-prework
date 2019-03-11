@@ -4,13 +4,13 @@
 #with the correct path to this directory on your computer
 
 my_songs = {
-"Go Go GO" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli/audio/Emerald-Park/01.mp3',
-"LiberTeens" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  'home/garrulous-abstraction-7829/jukebox-cli/audio/Emerald-Park/03.mp3',
-"Guiding Light" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli/audio/Emerald-Park/04.mp3',
-"Wolf" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli/audio/Emerald-Park/05.mp3',
-"Blue" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli/audio/Emerald-Park/07.mp3'
+"Go Go GO" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli-online-web-prework/audio/Emerald-Park/01.mp3',
+"LiberTeens" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli-online-web-prework/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli-online-web-prework/audio/Emerald-Park/03.mp3',
+"Guiding Light" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli-online-web-prework/audio/Emerald-Park/04.mp3',
+"Wolf" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli-online-web-prework/audio/Emerald-Park/05.mp3',
+"Blue" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli-online-web-prework/audio/Emerald-Park/06.mp3',
+"Graduation Failed" => 'Users/tashbootcamp/.atom/.learn-ide/home/garrulous-abstraction-7829/jukebox-cli-online-web-prework/audio/Emerald-Park/07.mp3'
 }
 
 def help
